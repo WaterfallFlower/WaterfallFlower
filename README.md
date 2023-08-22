@@ -9,6 +9,9 @@ My name is **WaterfallFlower**, or (_Name here_) if you know me closely.
 - ☁️ Can speak English, Russian and Kazakh! 
 - 💖 Not straight but gay. _he-he_
 
+### Check out these pages!
+- [**My small mods list 📃**](https://github.com/WaterfallFlower/WaterfallFlower/blob/main/my_little_mods_list.md)
+
 ### External Information
 Hey, I dunno what I should write here... hmm... I think I'll put this here for now:
 
