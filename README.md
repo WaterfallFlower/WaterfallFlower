@@ -1,16 +1,15 @@
-### Hi there 👋
+## 📌 Hello there!
+#### ヾ(^▽^*)))
+My name is **WaterfallFlower**, or (_Name here_) if you know me closely.
 
-<!--
-**WaterfallFlower/WaterfallFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am...**
+- ⌨️ Java/C# developer, but I can also code in C/C++.
+- 📦 Middle knowledge on ASP.NET thingy.
+- 🎈 From Kazakhstan, natively northern part of the country.
+- ☁️ Can speak English, Russian and Kazakh! 
+- 💖 Not straight but gay. _he-he_
 
-Here are some ideas to get you started:
+### External Information
+Hey, I dunno what I should write here... hmm... I think I'll put this here for now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**(UNDER CONSTRUCTION)**
